@@ -15,11 +15,11 @@ function App() {
     //App.jsx se mostrarán los componentes Navbar, Home y Footer
     <>
         <NavBar></NavBar>
-        <Home/>
+        {/* <Home/> */}
         {/* <FormRegistro/> */}
         {/* <FormLogin/> */}
         {/* <Cart/> */}
-        {/* <Pizza/> */}
+        <Pizza/>
         <Footer></Footer>
     </>
   )
